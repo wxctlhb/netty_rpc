@@ -26,7 +26,7 @@ public class ServiceRegistry {
 	public ServiceRegistry(String registryAddress) {
 
 		this.registryAddress = registryAddress;
-	}
+	} 
 
 	public void register(String data) {
 
